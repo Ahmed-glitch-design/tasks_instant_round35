@@ -206,7 +206,7 @@ class LoginScreenState extends State<LoginScreen> {
             ],
           ),
 
-          
+
           Container(
             height: 60,
             width: double.infinity,
